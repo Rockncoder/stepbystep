@@ -1,0 +1,35 @@
+{
+  "name": "stepbystep",
+  "version": "1.0.0",
+  "description": "Building the quizzer app in AngularJS, step by step.",
+  "author": "Troy Miles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rockncoder/quizzer.git"
+  },
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "angularjs",
+    "es6",
+    "typescript",
+    "rockncoder"
+  ],
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-aria": "^1.4.8",
+    "angular-material": "^1.0.1",
+    "angular-mocks": "^1.4.8",
+    "angular-moment": "^0.10.3",
+    "angular-ui-router": "^0.2.15"
+  },
+  "devDependencies": {
+    "gulp": "^3.9",
+    "gulp-typescript": "^2.10.0"
+  }
+}

@@ -1,0 +1,11 @@
+
+# ignore these directories
+node_modules
+.idea
+
+# ignore these files
+*.js
+*.map
+
+# except this JS file
+!gulpfile.js
